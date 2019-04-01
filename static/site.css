@@ -1,0 +1,58 @@
+html {
+    height: 100%;
+}
+
+body {
+    position: relative;
+}
+
+.adbanner {
+    position: absolute;
+    bottom: 0px;
+}
+
+.container {
+    padding-top: 10vh;
+}
+
+.searchbar {
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.searchbar-item {
+    float: left;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.searchterm {
+    height: 32px;
+    width: 500px;
+    font-size: 20px;
+    line-height: 32px;
+    border: 1px solid #dddddd;
+    border-radius: 3px;
+}
+
+.search {
+    height: 36px;
+    line-height: 32px;
+    font-size: 20px;
+    margin: 0;
+}
+
+.whoisdata{
+    clear: both;
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 50px;
+}
+
+.whoisdata pre {
+    overflow-x: auto;
+    line-height: 2;
+}
